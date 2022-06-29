@@ -5,7 +5,7 @@ function App(){
       isCompleted: false,
     },
     {
-      text: 'meet friend for lunch',
+      text: 'study react',
       isCompleted: false,
     },
     {
